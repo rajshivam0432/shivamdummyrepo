@@ -1,0 +1,20 @@
+{
+  "name": "newbackendseries",
+  "version": "1.0.0",
+  "description": "this is a new backend series by hitesh sir",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "vishal"
+  ],
+  "author": "Vishal Verma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
